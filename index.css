@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Island+Moments&family=Lato:wght@700&family=Poppins:wght@400;500;600;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #FFFBF0;
+}
+.background-gradient{
+    background-image: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    border: none;
+    Width:170px;
+    height: 60px;
+    /* color: white; */
+}
+.text{
+    color: #FABE4C ; 
+}
+.color{
+    color: #363958;
+}
+.image{
+    width: 549px;
+    height: 559px;
+}
+.navigation{
+    height: 80px;
+}
+.banner{
+   height: calc(100vh-80px); 
+}
+.card-img-top{
+    Width:293px;
+    Height:293px;
+}
+.photo{
+    height:82px;
+    width: 48px;
+    padding-top: 0 auto;
+    margin-left: 130px;
+}
